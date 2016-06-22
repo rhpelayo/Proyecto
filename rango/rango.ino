@@ -2,7 +2,7 @@
 
 
 
-LiquidCrystal lcd(12, 11, 5, 4, 3, 2);
+LiquidCrystal lcd(10, 9, A5, A4, A3, A2); 
 byte flecha[8] = { B00000,
                    B00100,
                    B00010,
